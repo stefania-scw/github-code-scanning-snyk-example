@@ -1,4 +1,4 @@
-# Docker Gooff
+# Docker Goofff
 
 Open a terminal at the `docker-goof` directory.
 
